@@ -1,4 +1,4 @@
-### Diwali Sales Ananlysis
+## Diwali Sales Analysis
 
 It is a Data Cleaning and Exploratory Data Analysis(EDA) Project in which we have a dataset of a e-commerce website including details of the sales they had during Diwali.
 
